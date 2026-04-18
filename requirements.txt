@@ -1,0 +1,66 @@
+# # ── Core ML stack ─────────────────────────────────────────────────────────────
+# torch>=2.2.0
+# transformers>=4.40.0
+# sentence-transformers>=3.0.0
+# Pillow>=10.0.0
+
+# # ── Embeddings & retrieval ─────────────────────────────────────────────────────
+# qdrant-client>=1.9.0
+# bm25s>=0.2.0                   # Fast BM25 with stemming support
+# PyStemmer>=2.2.0               # Dependency for bm25s English stemmer
+
+# # ── LLM & API ─────────────────────────────────────────────────────────────────
+# google-generativeai>=0.5.2
+
+# # ── Backend ───────────────────────────────────────────────────────────────────
+# fastapi>=0.111.0
+# uvicorn[standard]>=0.29.0
+# python-multipart>=0.0.9        # Required for FastAPI file uploads
+# pydantic>=2.7.0
+
+# # ── Evaluation ────────────────────────────────────────────────────────────────
+# ragas>=0.1.14
+# datasets>=2.19.0
+
+# # ── Frontend ──────────────────────────────────────────────────────────────────
+# streamlit>=1.35.0
+# requests>=2.31.0
+
+# # ── Utilities ─────────────────────────────────────────────────────────────────
+# tqdm>=4.66.0
+# numpy>=1.26.0
+
+### new fixed
+# ── Core ML stack ─────────────────────────────────────────────────────────────
+torch>=2.2.0
+transformers>=4.40.0
+sentence-transformers>=3.0.0
+Pillow>=10.0.0
+
+# ── Embeddings & retrieval ─────────────────────────────────────────────────────
+qdrant-client>=1.9.0
+bm25s>=0.2.0                   # Fast BM25 with stemming support
+PyStemmer>=2.2.0               # Dependency for bm25s English stemmer
+
+# ── LLM & API ─────────────────────────────────────────────────────────────────
+google-generativeai>=0.7.0     # Gemini synthesis (replaces anthropic)
+langchain-google-genai>=2.0.0  # LangChain wrapper for RAGAS judge
+langchain-core>=0.2.0          # Required by langchain-google-genai
+
+# ── Backend ───────────────────────────────────────────────────────────────────
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9        # Required for FastAPI file uploads
+pydantic>=2.7.0
+
+# ── Evaluation ────────────────────────────────────────────────────────────────
+ragas>=0.1.21                  # Minimum version with LangchainLLMWrapper + Gemini support
+datasets>=2.19.0
+
+# ── Frontend ──────────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+requests>=2.31.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+tqdm>=4.66.0
+numpy>=1.26.0

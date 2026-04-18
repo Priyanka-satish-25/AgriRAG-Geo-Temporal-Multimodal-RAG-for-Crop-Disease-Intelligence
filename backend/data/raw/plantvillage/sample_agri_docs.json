@@ -1,0 +1,106 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Tomato Early Blight (Alternaria solani)",
+    "content": "Early blight of tomato is caused by the fungus Alternaria solani. Symptoms appear as small, circular to angular brown spots on older leaves, often surrounded by a yellow halo. Lesions expand with concentric rings giving a target-board appearance. The disease thrives in warm (24-29\u00b0C), humid conditions. Management includes copper-based fungicide application every 7-10 days, removal of infected plant debris, and crop rotation. Resistant varieties such as Pusa Ruby show reduced susceptibility.",
+    "source": "ICAR Plant Pathology Bulletin 2023",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "region": "Delhi NCR",
+    "country": "India",
+    "publication_date": "2023-04-10",
+    "season": "kharif",
+    "crop_type": "tomato",
+    "disease_name": "early_blight",
+    "keywords": [
+      "Alternaria solani",
+      "fungicide",
+      "copper",
+      "brown spots",
+      "target lesion"
+    ]
+  },
+  {
+    "id": "doc_002",
+    "title": "Tomato Late Blight (Phytophthora infestans)",
+    "content": "Late blight, caused by Phytophthora infestans, is the most devastating tomato disease. Dark, water-soaked lesions appear on leaves and stems, rapidly turning brown-black. White fungal growth is visible on the underside of leaves in humid conditions. The pathogen spreads rapidly at 15-20\u00b0C with high humidity. Control requires preventive metalaxyl-M or mancozeb sprays, destruction of infected plants, and avoidance of overhead irrigation.",
+    "source": "CABI Crop Protection Compendium 2024",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "region": "Tamil Nadu",
+    "country": "India",
+    "publication_date": "2024-02-15",
+    "season": "rabi",
+    "crop_type": "tomato",
+    "disease_name": "late_blight",
+    "keywords": [
+      "Phytophthora infestans",
+      "metalaxyl",
+      "water-soaked",
+      "mancozeb"
+    ]
+  },
+  {
+    "id": "doc_003",
+    "title": "Wheat Rust (Puccinia species) \u2014 Punjab Region",
+    "content": "Wheat rust encompasses three diseases \u2014 stem rust (P. graminis), leaf rust (P. triticina), and yellow/stripe rust (P. striiformis). Yellow rust is the most damaging in the Indo-Gangetic plains. Pustules of yellow-orange spores appear in parallel rows on leaves. Disease pressure peaks at 10-15\u00b0C with dew periods. Propiconazole and tebuconazole fungicides at flag leaf stage provide excellent control. Resistant varieties HD-2967 and DBW-187 are recommended for the region.",
+    "source": "Punjab Agricultural University Extension Report 2023",
+    "latitude": 30.901,
+    "longitude": 75.8573,
+    "region": "Punjab",
+    "country": "India",
+    "publication_date": "2023-12-01",
+    "season": "rabi",
+    "crop_type": "wheat",
+    "disease_name": "yellow_rust",
+    "keywords": [
+      "Puccinia striiformis",
+      "propiconazole",
+      "tebuconazole",
+      "flag leaf",
+      "rust"
+    ]
+  },
+  {
+    "id": "doc_004",
+    "title": "Rice Blast (Magnaporthe oryzae) Management",
+    "content": "Rice blast caused by Magnaporthe oryzae is the most important rice disease worldwide. Diamond-shaped lesions with grey centres and brown borders appear on leaves (leaf blast) or at the neck (neck blast). Neck blast at heading causes complete yield loss. High nitrogen, dense planting, and intermittent drizzle favour epidemics. Tricyclazole at 0.6 g/litre applied at tillering and panicle initiation is the standard treatment. Silicon application improves resistance in silicon-deficient soils.",
+    "source": "International Rice Research Institute (IRRI) Fact Sheet 2024",
+    "latitude": 14.1768,
+    "longitude": 121.2448,
+    "region": "Luzon",
+    "country": "Philippines",
+    "publication_date": "2024-06-20",
+    "season": "kharif",
+    "crop_type": "rice",
+    "disease_name": "rice_blast",
+    "keywords": [
+      "Magnaporthe oryzae",
+      "tricyclazole",
+      "neck blast",
+      "silicon",
+      "IRRI"
+    ]
+  },
+  {
+    "id": "doc_005",
+    "title": "Potato Late Blight \u2014 Highland Regions Advisory",
+    "content": "Potato late blight (Phytophthora infestans) is especially severe in highland regions with cool, wet weather. Lesions start at leaf margins as dark water-soaked patches. Tuber infection causes brown rot rendering them unsaleable. The 7-10 day fungicide schedule should use alternating chemistry: cymoxanil+mancozeb, then dimethomorph, to prevent resistance. Certified seed potatoes, haulm destruction 2 weeks before harvest, and avoiding irrigation during susceptible periods are critical IPM measures.",
+    "source": "CIP (International Potato Center) Advisory 2024",
+    "latitude": -13.5319,
+    "longitude": -71.9675,
+    "region": "Andes",
+    "country": "Peru",
+    "publication_date": "2024-03-01",
+    "season": "summer",
+    "crop_type": "potato",
+    "disease_name": "late_blight",
+    "keywords": [
+      "Phytophthora infestans",
+      "cymoxanil",
+      "dimethomorph",
+      "tuber rot",
+      "CIP"
+    ]
+  }
+]

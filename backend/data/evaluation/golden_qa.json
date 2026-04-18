@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What disease causes circular brown spots with a yellow halo on tomato leaves?",
+    "ground_truth": "Early blight caused by Alternaria solani. Managed with copper-based fungicide every 7-10 days, removal of infected plant debris, and crop rotation.",
+    "image_path": "data/evaluation/images/tomato_early_blight.jpg",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "observation_date": "2024-07-15",
+    "crop_type": "tomato"
+  },
+  {
+    "question": "What causes dark water-soaked patches on tomato leaves that rapidly turn brown-black?",
+    "ground_truth": "Late blight caused by Phytophthora infestans. Controlled with preventive metalaxyl-M or mancozeb sprays and by avoiding overhead irrigation.",
+    "image_path": "data/evaluation/images/tomato_late_blight.jpg",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "observation_date": "2024-11-10",
+    "crop_type": "tomato"
+  },
+  {
+    "question": "What disease produces yellow-orange pustules in parallel rows on wheat leaves?",
+    "ground_truth": "Yellow stripe rust caused by Puccinia striiformis. Managed with propiconazole or tebuconazole applied at flag leaf stage. Resistant varieties HD-2967 recommended.",
+    "image_path": "data/evaluation/images/wheat_yellow_rust.jpg",
+    "latitude": 30.901,
+    "longitude": 75.8573,
+    "observation_date": "2024-02-20",
+    "crop_type": "wheat"
+  },
+  {
+    "question": "What causes diamond-shaped grey lesions with brown borders on rice leaves?",
+    "ground_truth": "Rice blast caused by Magnaporthe oryzae. Managed with tricyclazole at 0.6 g/litre applied at tillering and panicle initiation. Silicon application improves resistance.",
+    "image_path": "data/evaluation/images/rice_blast.jpg",
+    "latitude": 14.1768,
+    "longitude": 121.2448,
+    "observation_date": "2024-08-05",
+    "crop_type": "rice"
+  },
+  {
+    "question": "What disease causes brown lesions at potato leaf margins and brown rot in tubers?",
+    "ground_truth": "Potato late blight caused by Phytophthora infestans. Managed using alternating cymoxanil+mancozeb and dimethomorph on a 7-10 day fungicide schedule.",
+    "image_path": "data/evaluation/images/potato_late_blight.jpg",
+    "latitude": -13.5319,
+    "longitude": -71.9675,
+    "observation_date": "2024-04-12",
+    "crop_type": "potato"
+  }
+]

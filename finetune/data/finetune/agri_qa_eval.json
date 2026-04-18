@@ -1,0 +1,502 @@
+[
+  {
+    "query": "Which fungicide is effective against bacterial leaf blight in maize?",
+    "positive": "For bacterial leaf blight in maize, mancozeb applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like mancozeb penetrate plant tissue for curative action.",
+    "hard_negative": "maize seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "How does weather affect rice blast spread in chickpea?",
+    "positive": "rice blast in chickpea is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for chickpea includes deep ploughing to 30 cm before summer sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "What causes white powdery growth on groundnut leaves?",
+    "positive": "smut on groundnut causes white powdery growth. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of copper-based fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "groundnut cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The summer season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How to treat downy mildew in cotton during rabi season?",
+    "positive": "downy mildew in cotton during rabi is managed through integrated pest management. Apply copper oxychloride fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "cotton requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "Which fungicide is effective against early blight in wheat?",
+    "positive": "For early blight in wheat, metalaxyl applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like metalaxyl penetrate plant tissue for curative action.",
+    "hard_negative": "wheat seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "What causes yellow chlorotic spots on rice leaves?",
+    "positive": "early blight on rice causes yellow chlorotic spots. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of tebuconazole fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "rice cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The summer season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What causes necrotic angular spots on potato leaves?",
+    "positive": "powdery mildew on potato causes necrotic angular spots. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of mancozeb fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "potato cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How does weather affect bacterial leaf blight spread in potato?",
+    "positive": "bacterial leaf blight in potato is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for potato includes deep ploughing to 30 cm before rabi sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "How to treat bacterial leaf blight in rice during kharif season?",
+    "positive": "bacterial leaf blight in rice during kharif is managed through integrated pest management. Apply chlorothalonil fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "rice requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "What causes yellow chlorotic spots on cotton leaves?",
+    "positive": "downy mildew on cotton causes yellow chlorotic spots. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of tebuconazole fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "cotton cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The summer season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How to treat powdery mildew in cotton during rabi season?",
+    "positive": "powdery mildew in cotton during rabi is managed through integrated pest management. Apply chlorothalonil fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "cotton requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "How does weather affect powdery mildew spread in tomato?",
+    "positive": "powdery mildew in tomato is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for tomato includes deep ploughing to 30 cm before rabi sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "How to treat late blight in rice during rabi season?",
+    "positive": "late blight in rice during rabi is managed through integrated pest management. Apply copper oxychloride fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "rice requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "What causes yellow chlorotic spots on tomato leaves?",
+    "positive": "yellow rust on tomato causes yellow chlorotic spots. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of copper-based fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "tomato cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What are the symptoms of leaf curl virus on tomato?",
+    "positive": "leaf curl virus on tomato presents as distinct visual symptoms: angular water-soaked lesions turning brown-black. The progression starts from lower older leaves moving upward. Under high disease pressure, defoliation occurs within 2-3 weeks. Diagnosis can be confirmed by laboratory isolation of the causal organism.",
+    "hard_negative": "tomato is an important kharif season crop cultivated across 12 million hectares. Average national yield is 2.5 tonnes/ha with improved varieties yielding up to 4.5 t/ha. Major producing states include Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh."
+  },
+  {
+    "query": "What are the symptoms of stem rust on groundnut?",
+    "positive": "stem rust on groundnut presents as distinct visual symptoms: diamond-shaped grey lesions with brown borders. The progression starts from lower older leaves moving upward. Under high disease pressure, defoliation occurs within 2-3 weeks. Diagnosis can be confirmed by laboratory isolation of the causal organism.",
+    "hard_negative": "groundnut is an important rabi season crop cultivated across 12 million hectares. Average national yield is 2.5 tonnes/ha with improved varieties yielding up to 4.5 t/ha. Major producing states include Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh."
+  },
+  {
+    "query": "How to treat rice blast in wheat during rabi season?",
+    "positive": "rice blast in wheat during rabi is managed through integrated pest management. Apply copper oxychloride fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "wheat requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "Which fungicide is effective against stem rust in groundnut?",
+    "positive": "For stem rust in groundnut, metalaxyl applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like metalaxyl penetrate plant tissue for curative action.",
+    "hard_negative": "groundnut seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "Which fungicide is effective against powdery mildew in cotton?",
+    "positive": "For powdery mildew in cotton, mancozeb applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like mancozeb penetrate plant tissue for curative action.",
+    "hard_negative": "cotton seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "How does weather affect smut spread in wheat?",
+    "positive": "smut in wheat is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for wheat includes deep ploughing to 30 cm before kharif sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "Which fungicide is effective against smut in maize?",
+    "positive": "For smut in maize, mancozeb applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like mancozeb penetrate plant tissue for curative action.",
+    "hard_negative": "maize seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "How does weather affect rice blast spread in potato?",
+    "positive": "rice blast in potato is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for potato includes deep ploughing to 30 cm before kharif sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "What causes orange pustules on cotton leaves?",
+    "positive": "smut on cotton causes orange pustules. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of metalaxyl-M fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "cotton cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What causes yellow chlorotic spots on chickpea leaves?",
+    "positive": "leaf curl virus on chickpea causes yellow chlorotic spots. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of metalaxyl-M fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "chickpea cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How to treat downy mildew in rice during rabi season?",
+    "positive": "downy mildew in rice during rabi is managed through integrated pest management. Apply cymoxanil fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "rice requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "How to treat late blight in potato during rabi season?",
+    "positive": "late blight in potato during rabi is managed through integrated pest management. Apply chlorothalonil fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "potato requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "Which fungicide is effective against downy mildew in chickpea?",
+    "positive": "For downy mildew in chickpea, mancozeb applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like mancozeb penetrate plant tissue for curative action.",
+    "hard_negative": "chickpea seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "What causes circular brown lesions on maize leaves?",
+    "positive": "smut on maize causes circular brown lesions. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of copper-based fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "maize cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What causes orange pustules on rice leaves?",
+    "positive": "downy mildew on rice causes orange pustules. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of tebuconazole fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "rice cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "Which fungicide is effective against leaf curl virus in cotton?",
+    "positive": "For leaf curl virus in cotton, mancozeb applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like mancozeb penetrate plant tissue for curative action.",
+    "hard_negative": "cotton seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "What causes white powdery growth on wheat leaves?",
+    "positive": "smut on wheat causes white powdery growth. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of tebuconazole fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "wheat cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What causes yellow chlorotic spots on potato leaves?",
+    "positive": "rice blast on potato causes yellow chlorotic spots. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of metalaxyl-M fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "potato cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The summer season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What causes white powdery growth on wheat leaves?",
+    "positive": "smut on wheat causes white powdery growth. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of tebuconazole fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "wheat cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How does weather affect yellow rust spread in rice?",
+    "positive": "yellow rust in rice is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for rice includes deep ploughing to 30 cm before summer sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "How does weather affect bacterial leaf blight spread in cotton?",
+    "positive": "bacterial leaf blight in cotton is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for cotton includes deep ploughing to 30 cm before kharif sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "How to treat yellow rust in groundnut during kharif season?",
+    "positive": "yellow rust in groundnut during kharif is managed through integrated pest management. Apply copper oxychloride fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "groundnut requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "How to treat stem rust in potato during rabi season?",
+    "positive": "stem rust in potato during rabi is managed through integrated pest management. Apply azoxystrobin fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "potato requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "What causes necrotic angular spots on soybean leaves?",
+    "positive": "powdery mildew on soybean causes necrotic angular spots. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of mancozeb fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "soybean cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How to treat bacterial leaf blight in soybean during kharif season?",
+    "positive": "bacterial leaf blight in soybean during kharif is managed through integrated pest management. Apply copper oxychloride fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "soybean requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "Which fungicide is effective against rice blast in soybean?",
+    "positive": "For rice blast in soybean, tebuconazole applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like tebuconazole penetrate plant tissue for curative action.",
+    "hard_negative": "soybean seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "What causes necrotic angular spots on wheat leaves?",
+    "positive": "stem rust on wheat causes necrotic angular spots. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of tebuconazole fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "wheat cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What causes circular brown lesions on maize leaves?",
+    "positive": "smut on maize causes circular brown lesions. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of copper-based fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "maize cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What causes dark water-soaked patches on soybean leaves?",
+    "positive": "smut on soybean causes dark water-soaked patches. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of copper-based fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "soybean cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What are the symptoms of stem rust on cotton?",
+    "positive": "stem rust on cotton presents as distinct visual symptoms: whitish fungal growth on upper leaf surface. The progression starts from lower older leaves moving upward. Under high disease pressure, defoliation occurs within 2-3 weeks. Diagnosis can be confirmed by laboratory isolation of the causal organism.",
+    "hard_negative": "cotton is an important summer season crop cultivated across 12 million hectares. Average national yield is 2.5 tonnes/ha with improved varieties yielding up to 4.5 t/ha. Major producing states include Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh."
+  },
+  {
+    "query": "How to treat yellow rust in wheat during summer season?",
+    "positive": "yellow rust in wheat during summer is managed through integrated pest management. Apply chlorothalonil fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "wheat requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "How to treat downy mildew in tomato during summer season?",
+    "positive": "downy mildew in tomato during summer is managed through integrated pest management. Apply copper oxychloride fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "tomato requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "Which fungicide is effective against stem rust in wheat?",
+    "positive": "For stem rust in wheat, mancozeb applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like mancozeb penetrate plant tissue for curative action.",
+    "hard_negative": "wheat seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "How does weather affect stem rust spread in maize?",
+    "positive": "stem rust in maize is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for maize includes deep ploughing to 30 cm before rabi sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "What are the symptoms of early blight on rice?",
+    "positive": "early blight on rice presents as distinct visual symptoms: diamond-shaped grey lesions with brown borders. The progression starts from lower older leaves moving upward. Under high disease pressure, defoliation occurs within 2-3 weeks. Diagnosis can be confirmed by laboratory isolation of the causal organism.",
+    "hard_negative": "rice is an important rabi season crop cultivated across 12 million hectares. Average national yield is 2.5 tonnes/ha with improved varieties yielding up to 4.5 t/ha. Major producing states include Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh."
+  },
+  {
+    "query": "What causes orange pustules on soybean leaves?",
+    "positive": "yellow rust on soybean causes orange pustules. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of copper-based fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "soybean cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How does weather affect smut spread in rice?",
+    "positive": "smut in rice is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for rice includes deep ploughing to 30 cm before kharif sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "Which fungicide is effective against stem rust in tomato?",
+    "positive": "For stem rust in tomato, metalaxyl applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like metalaxyl penetrate plant tissue for curative action.",
+    "hard_negative": "tomato seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "What causes circular brown lesions on cotton leaves?",
+    "positive": "leaf curl virus on cotton causes circular brown lesions. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of mancozeb fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "cotton cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The summer season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How to treat late blight in chickpea during kharif season?",
+    "positive": "late blight in chickpea during kharif is managed through integrated pest management. Apply copper oxychloride fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "chickpea requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "How does weather affect bacterial leaf blight spread in wheat?",
+    "positive": "bacterial leaf blight in wheat is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for wheat includes deep ploughing to 30 cm before rabi sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "What causes dark water-soaked patches on groundnut leaves?",
+    "positive": "leaf curl virus on groundnut causes dark water-soaked patches. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of copper-based fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "groundnut cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How does weather affect downy mildew spread in groundnut?",
+    "positive": "downy mildew in groundnut is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for groundnut includes deep ploughing to 30 cm before summer sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "What are the symptoms of late blight on wheat?",
+    "positive": "late blight on wheat presents as distinct visual symptoms: yellowing with parallel rows of orange spore pustules. The progression starts from lower older leaves moving upward. Under high disease pressure, defoliation occurs within 2-3 weeks. Diagnosis can be confirmed by laboratory isolation of the causal organism.",
+    "hard_negative": "wheat is an important rabi season crop cultivated across 12 million hectares. Average national yield is 2.5 tonnes/ha with improved varieties yielding up to 4.5 t/ha. Major producing states include Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh."
+  },
+  {
+    "query": "What causes orange pustules on potato leaves?",
+    "positive": "downy mildew on potato causes orange pustules. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of propiconazole fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "potato cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "Which fungicide is effective against early blight in maize?",
+    "positive": "For early blight in maize, propiconazole applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like propiconazole penetrate plant tissue for curative action.",
+    "hard_negative": "maize seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "Which fungicide is effective against leaf curl virus in chickpea?",
+    "positive": "For leaf curl virus in chickpea, metalaxyl applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like metalaxyl penetrate plant tissue for curative action.",
+    "hard_negative": "chickpea seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "What causes circular brown lesions on groundnut leaves?",
+    "positive": "smut on groundnut causes circular brown lesions. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of metalaxyl-M fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "groundnut cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The summer season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "Which fungicide is effective against smut in potato?",
+    "positive": "For smut in potato, tebuconazole applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like tebuconazole penetrate plant tissue for curative action.",
+    "hard_negative": "potato seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "How to treat rice blast in soybean during rabi season?",
+    "positive": "rice blast in soybean during rabi is managed through integrated pest management. Apply chlorothalonil fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "soybean requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "How to treat downy mildew in cotton during rabi season?",
+    "positive": "downy mildew in cotton during rabi is managed through integrated pest management. Apply copper oxychloride fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "cotton requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "Which fungicide is effective against leaf curl virus in wheat?",
+    "positive": "For leaf curl virus in wheat, mancozeb applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like mancozeb penetrate plant tissue for curative action.",
+    "hard_negative": "wheat seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "What causes orange pustules on cotton leaves?",
+    "positive": "powdery mildew on cotton causes orange pustules. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of mancozeb fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "cotton cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "Which fungicide is effective against smut in potato?",
+    "positive": "For smut in potato, tricyclazole applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like tricyclazole penetrate plant tissue for curative action.",
+    "hard_negative": "potato seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "What causes necrotic angular spots on potato leaves?",
+    "positive": "powdery mildew on potato causes necrotic angular spots. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of copper-based fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "potato cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How to treat yellow rust in tomato during kharif season?",
+    "positive": "yellow rust in tomato during kharif is managed through integrated pest management. Apply cymoxanil fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "tomato requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "What causes necrotic angular spots on chickpea leaves?",
+    "positive": "late blight on chickpea causes necrotic angular spots. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of mancozeb fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "chickpea cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What are the symptoms of leaf curl virus on chickpea?",
+    "positive": "leaf curl virus on chickpea presents as distinct visual symptoms: yellowing with parallel rows of orange spore pustules. The progression starts from lower older leaves moving upward. Under high disease pressure, defoliation occurs within 2-3 weeks. Diagnosis can be confirmed by laboratory isolation of the causal organism.",
+    "hard_negative": "chickpea is an important summer season crop cultivated across 12 million hectares. Average national yield is 2.5 tonnes/ha with improved varieties yielding up to 4.5 t/ha. Major producing states include Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh."
+  },
+  {
+    "query": "How to treat leaf curl virus in tomato during kharif season?",
+    "positive": "leaf curl virus in tomato during kharif is managed through integrated pest management. Apply copper oxychloride fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "tomato requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "How to treat rice blast in tomato during rabi season?",
+    "positive": "rice blast in tomato during rabi is managed through integrated pest management. Apply azoxystrobin fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "tomato requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "How does weather affect rice blast spread in tomato?",
+    "positive": "rice blast in tomato is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for tomato includes deep ploughing to 30 cm before summer sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "What are the symptoms of early blight on groundnut?",
+    "positive": "early blight on groundnut presents as distinct visual symptoms: whitish fungal growth on upper leaf surface. The progression starts from lower older leaves moving upward. Under high disease pressure, defoliation occurs within 2-3 weeks. Diagnosis can be confirmed by laboratory isolation of the causal organism.",
+    "hard_negative": "groundnut is an important rabi season crop cultivated across 12 million hectares. Average national yield is 2.5 tonnes/ha with improved varieties yielding up to 4.5 t/ha. Major producing states include Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh."
+  },
+  {
+    "query": "What causes dark water-soaked patches on rice leaves?",
+    "positive": "late blight on rice causes dark water-soaked patches. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of mancozeb fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "rice cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How to treat late blight in groundnut during summer season?",
+    "positive": "late blight in groundnut during summer is managed through integrated pest management. Apply azoxystrobin fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "groundnut requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "What are the symptoms of early blight on cotton?",
+    "positive": "early blight on cotton presents as distinct visual symptoms: diamond-shaped grey lesions with brown borders. The progression starts from lower older leaves moving upward. Under high disease pressure, defoliation occurs within 2-3 weeks. Diagnosis can be confirmed by laboratory isolation of the causal organism.",
+    "hard_negative": "cotton is an important rabi season crop cultivated across 12 million hectares. Average national yield is 2.5 tonnes/ha with improved varieties yielding up to 4.5 t/ha. Major producing states include Punjab, Haryana, Uttar Pradesh, and Madhya Pradesh."
+  },
+  {
+    "query": "How to treat rice blast in maize during summer season?",
+    "positive": "rice blast in maize during summer is managed through integrated pest management. Apply copper oxychloride fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "maize requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "What causes white powdery growth on soybean leaves?",
+    "positive": "leaf curl virus on soybean causes white powdery growth. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of metalaxyl-M fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "soybean cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What causes white powdery growth on wheat leaves?",
+    "positive": "early blight on wheat causes white powdery growth. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of tebuconazole fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "wheat cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The summer season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How does weather affect smut spread in cotton?",
+    "positive": "smut in cotton is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for cotton includes deep ploughing to 30 cm before summer sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "How to treat bacterial leaf blight in maize during rabi season?",
+    "positive": "bacterial leaf blight in maize during rabi is managed through integrated pest management. Apply cymoxanil fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "maize requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "What causes white powdery growth on tomato leaves?",
+    "positive": "bacterial leaf blight on tomato causes white powdery growth. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of mancozeb fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "tomato cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The kharif season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "How does weather affect smut spread in potato?",
+    "positive": "smut in potato is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for potato includes deep ploughing to 30 cm before rabi sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "How to treat downy mildew in maize during kharif season?",
+    "positive": "downy mildew in maize during kharif is managed through integrated pest management. Apply chlorothalonil fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "maize requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "What causes dark water-soaked patches on wheat leaves?",
+    "positive": "rice blast on wheat causes dark water-soaked patches. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of mancozeb fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "wheat cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What causes white powdery growth on cotton leaves?",
+    "positive": "smut on cotton causes white powdery growth. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of tebuconazole fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "cotton cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "Which fungicide is effective against smut in soybean?",
+    "positive": "For smut in soybean, mancozeb applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like mancozeb penetrate plant tissue for curative action.",
+    "hard_negative": "soybean seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "How does weather affect early blight spread in potato?",
+    "positive": "early blight in potato is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for potato includes deep ploughing to 30 cm before summer sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "How does weather affect powdery mildew spread in chickpea?",
+    "positive": "powdery mildew in chickpea is strongly influenced by weather conditions. High humidity (>85%), frequent rainfall, and temperatures of 18-25\u00b0C create ideal conditions for infection and rapid spread. Leaf wetness duration exceeding 6 hours after rain events triggers mass sporulation. Disease forecasting models use temperature-humidity indices to predict outbreak risk and guide spray timing.",
+    "hard_negative": "Soil health management for chickpea includes deep ploughing to 30 cm before rabi sowing. Application of 10 tonnes/ha FYM or compost improves soil organic carbon. Subsoil compaction should be broken using chisel plough at 2-year intervals."
+  },
+  {
+    "query": "Which fungicide is effective against rice blast in potato?",
+    "positive": "For rice blast in potato, mancozeb applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like mancozeb penetrate plant tissue for curative action.",
+    "hard_negative": "potato seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "Which fungicide is effective against downy mildew in cotton?",
+    "positive": "For downy mildew in cotton, metalaxyl applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like metalaxyl penetrate plant tissue for curative action.",
+    "hard_negative": "cotton seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "How to treat stem rust in wheat during rabi season?",
+    "positive": "stem rust in wheat during rabi is managed through integrated pest management. Apply azoxystrobin fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "wheat requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "What causes orange pustules on groundnut leaves?",
+    "positive": "yellow rust on groundnut causes orange pustules. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of metalaxyl-M fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "groundnut cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The summer season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "What causes circular brown lesions on maize leaves?",
+    "positive": "stem rust on maize causes circular brown lesions. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of metalaxyl-M fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "maize cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The rabi season crop typically matures in 90-120 days after sowing."
+  },
+  {
+    "query": "Which fungicide is effective against leaf curl virus in soybean?",
+    "positive": "For leaf curl virus in soybean, propiconazole applied at 1-2 ml/litre has shown 75-85% efficacy in field trials. Alternating between two fungicide groups every spray cycle prevents resistance development. The first spray at disease appearance followed by repeat applications at 10-14 day intervals is the recommended protocol. Systemic fungicides like propiconazole penetrate plant tissue for curative action.",
+    "hard_negative": "soybean seeds should be treated with Thiram 3g/kg or Carbendazim 2g/kg before sowing. Seed priming in 1% KH\u2082PO\u2084 solution for 8 hours improves germination under drought. Plant growth regulators at vegetative stage improve biomass accumulation."
+  },
+  {
+    "query": "How to treat rice blast in potato during summer season?",
+    "positive": "rice blast in potato during summer is managed through integrated pest management. Apply copper oxychloride fungicide preventively before disease onset. Ensure 40-50 cm plant spacing for air circulation to reduce humidity. Destroy infected plant material and avoid overhead irrigation. Crop rotation with non-host species for 2-3 years is recommended.",
+    "hard_negative": "potato requires a base fertiliser of 80:40:40 NPK kg/ha applied at sowing. Top dressing with 40 kg urea/ha at 30 days after sowing improves yield. Irrigation at critical stages \u2014 flowering and grain filling \u2014 is essential."
+  },
+  {
+    "query": "What causes necrotic angular spots on cotton leaves?",
+    "positive": "yellow rust on cotton causes necrotic angular spots. The pathogen thrives under warm and humid conditions. Management includes removal of infected debris, application of mancozeb fungicide at 7-10 day intervals, and selection of resistant varieties. Early detection is critical to prevent crop losses exceeding 30-40%.",
+    "hard_negative": "cotton cultivation requires well-drained soil with pH 6.0-7.0. Optimal planting density is 45\u00d730 cm with irrigation at 5-7 day intervals. The summer season crop typically matures in 90-120 days after sowing."
+  }
+]
